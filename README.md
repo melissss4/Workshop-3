@@ -23,7 +23,7 @@ One main issue is that my images that I used for this were much much too large t
 print(_image.width); // to tell how big the pic is so i can resize my canvas
   print(_image.height); // to tell how big the pic is so i can resize my canvas
 
-
+It took me around an hour to upload my pictures into the file correctly, and then to figure out how to get the image to be revealed. Then I had a huge 3 hour struggle trying to add the second image. 
 The main issue I had was finding out how to add multiple images to the same canvas, for this I tried to google how to do this, but all google came up with was how to do this in another coding language. I then went onto the p5.js guides and found a code that worked for adding a second image. However, this code had the pictures overlapping, and as my images have similar colour schemes, I wanted them next to each other instead so that I could differentiate. For this I had a play around with the code and figured out how to get them on different spaces/ get them to go next to each other:
  drawImage(moon, stars.width);  
 Of course this just made my canvas all the wider.

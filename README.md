@@ -16,6 +16,8 @@ Include manipulations of the images so that they change over time, using filters
 Current code:
 https://editor.p5js.org/melisssa/full/0Rx1A7lCG 
 
+Keeping on the star theme I wanted to incorporate one image I have taken, and one I found online, for this I wanted to also reveal them with the same dots I have used in my previous projects.
+
 
 One main issue is that my images that I used for this were much much too large to create a good sketch, however, every time I tried to resize them within p4.js the code would fail. I then tried to use an image resizer online, but then p5.js had an issue with being able to even pull these images from the file even though they were in the correct image type and were in the folder correctly. I then decided to just adjust my canvas size to fit the images, to do this I did not want to have to keep adjusting it until I found the right size, so instead I googled how to find out the image size, so I added this code to be able to view it in my console:  
 print(_image.width); // to tell how big the pic is so i can resize my canvas

@@ -2,7 +2,7 @@
 //let images;
 
 //function preload () {
- // images = loadImage('images/2.jpeg') //grabs image from file
+ // images = loadImage('Images1/2.jpeg') //grabs image from file
 
 
 //function setup () {
@@ -22,8 +22,8 @@
 let stars;
 let moon;
 function preload () {
-  moon= loadImage('images/2.jpeg');
-    stars= loadImage('images/3.jpeg');
+  moon= loadImage('Images1/2.jpeg');
+    stars= loadImage('Images1/3.jpeg');
  
 }
 

@@ -14,7 +14,7 @@ Include manipulations of the images so that they change over time, using filters
 
 
 Current sketch:
-[https://editor.p5js.org/melisssa/full/0Rx1A7lCG ](https://melissss4.github.io/Workshop-3/) 
+(https://melissss4.github.io/Workshop-3/ ) 
 
 Keeping on the star theme I wanted to incorporate one image I have taken, and one I found online, for this I wanted to also reveal them with the same dots I have used in my previous projects.
 

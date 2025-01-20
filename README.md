@@ -13,8 +13,8 @@ Collect a series of images. Make a p5.js sketch that generates a new collage eac
 Include manipulations of the images so that they change over time, using filters and/or other kinds of computational interventions.
 
 
-Current code:
-https://editor.p5js.org/melisssa/full/0Rx1A7lCG 
+Current sketch:
+[https://editor.p5js.org/melisssa/full/0Rx1A7lCG ](https://melissss4.github.io/Workshop-3/) 
 
 Keeping on the star theme I wanted to incorporate one image I have taken, and one I found online, for this I wanted to also reveal them with the same dots I have used in my previous projects.
 
